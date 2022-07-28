@@ -2,6 +2,10 @@
 
 ## MEGVII ![visitors](https://visitor-badge.glitch.me/badge?page_id=hitcslj/hitcslj) 
 
+<p align="center">
+  <img src="https://cdnstatic.megvii.com/uplaod/image/20220719/67fd8006dbb0bc632cdc35e08890c518ab002684887951d945ecf898f1f88902fd2dd1c2.png">
+</p>
+
 ### Hi there 👋
 _**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://space.bilibili.com/504693811/?spm_id_from=333.999.0.0)]**_
 
