@@ -3,7 +3,7 @@
 ## MEGVII ![visitors](https://visitor-badge.glitch.me/badge?page_id=hitcslj/hitcslj) 
 
 ### Hi there 👋
-_**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://space.bilibili.com/504693811/?spm_id_from=333.999.0.0)]  **_
+_**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://space.bilibili.com/504693811/?spm_id_from=333.999.0.0)]**_
 
 
 
