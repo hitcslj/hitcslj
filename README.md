@@ -1,11 +1,11 @@
-## Jian Liu ![Counter](https://api.infinitescript.com/badgen/count?name=hitcslj/hitcslj)
+### Hi 👋, I'm Liu Jian
+<img src="https://komarev.com/ghpvc/?username=hitcslj&label=Profile%20views&color=0e75b6&style=flat" alt="hitcslj" />
+<img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=hitcslj&show_icons=true">
 
+- 💼 Currently working at <a href="https://www.shlab.org.cn/"><strong>Shanghai AI Lab</a> as an intern.
 
-<p align="center" width="200">
-   <img align="center" width="200" src="./image/head.png" />
-   <h3 align="center">Hi 😁! This is liujian</h3>
-   <p align="center"><a href="https://space.bilibili.com/427557489">Bilibili </a> |<a href="https://www.zhihu.com/people/hitcslj">ZhiHu</a> | <a href="mailto:hitcslj@stu.hit.edu.cn">Email</a></p>
-</p>
+- 📫 How to reach me: **hitcslj@stu.hit.edu.cn or liujian@pjlab.org.cn**
 
-<p align="center">💼 Currently working at <a href="https://www.shlab.org.cn/"><strong>Shanghai AI Lab</a> as an intern. <br /> 📚 Majoring in  <strong>Computer Sciense </strong><br />🏅️ China National scholarship  <br> 🎯 Goal: Be a hairy researcher！<br/>
-</p>
+- ⚡ my research focuses on **3D vision, specifically AIGC-3D** .If you have any interesting ideas, please contact me.
+  
+
