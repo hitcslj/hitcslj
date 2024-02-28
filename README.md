@@ -6,4 +6,4 @@
 
 - 📫 How to reach me: **hitcslj@stu.hit.edu.cn or liujian@pjlab.org.cn**
 
-- ⚡ my research focuses on 3D vision, specifically **AIGC-3D** .  If you have any interesting ideas, please contact me.
+- ⚡ I am actively engaged in research focused on various aspects of 3D vision, including depth estimation, 3D occupancy prediction, and AIGC 3D. Additionally, I am also involved in the exciting field of AI4Science, specifically in the area of airfoil design.  
