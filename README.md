@@ -4,4 +4,4 @@
 
 - 📫 How to reach me: **2498065510@qq.com** 
 
-- ⚡ I am actively engaged in research focused on various aspects of 3D generation (AIGC-3D).
+- ⚡ I am actively engaged in research focused on 3D generation.
