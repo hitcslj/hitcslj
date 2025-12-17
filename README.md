@@ -5,5 +5,5 @@
 📫 **How to reach me:** [jliuhr@connect.ust.hk](mailto:jliuhr@connect.ust.hk)  
 🔭 **I’m currently working on:** 3D Generation research.
 
-**📢 Note on PolyGen Code Release:**  
+**📢 Note on [PolyGen](https://3d.hunyuan.tencent.com/studio) Code Release:**  
 Due to Tencent's internal policies and IP protection considerations, the source code for the PolyGen series is currently unavailable. We plan to release the code once comparable implementations become available in the open-source community.
